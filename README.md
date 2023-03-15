@@ -13,8 +13,11 @@ Soon @Spacechair.
 
 ###
 
-In constant evolution.
 Passionate about Web and Mobile Development technologies.
+
+In constant evolution.
+
+"Achievement is a direct result of persistence, as only those who relentlessly persevere in their goals and overcome challenges along the way are able to achieve the desired success. Persistence is the most important quality anyone can develop."
 
 <!--
 **danlombards/danlombards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
