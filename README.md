@@ -13,8 +13,7 @@ Soon @Spacechair.
 
 ###
 
-In constant evolution. Passionate about Web and Mobile Development technologies.
-
+In constant evolution.
 Passionate about Web and Mobile Development technologies.
 
 <!--
