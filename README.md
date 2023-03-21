@@ -17,6 +17,8 @@ Passionate about Web and Mobile Development technologies.
 
 In constant evolution.
 
+"Achievement is a direct result of persistence, as only those who relentlessly persevere in their goals and overcome challenges along the way are able to achieve the desired success. Persistence is the most important quality anyone can develop."
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
