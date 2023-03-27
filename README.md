@@ -9,7 +9,7 @@ Soon @Spacechair.
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Lombardi-1a8fac?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilombardi/)](https://www.linkedin.com/in/danilombardi/)
-[![Gmail Badge](https://img.shields.io/badge/-danleaols@gmail.com-1a8fac?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danleaols@gmail.com)](mailto:danleaols@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-danlsantos@icloud.com-1a8fac?style=flat-square&logo=Apple&logoColor=white&link=mailto:danlsantos@icloud.com)](mailto:danlsantos@icloud.com)
 
 ###
 
