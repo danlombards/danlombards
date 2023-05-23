@@ -28,14 +28,16 @@ In constant evolution.
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Dan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Dan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Dan-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Dan-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Dan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center" alt="Dan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Dan-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Dan-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  { <img align="center" alt="Dan-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dan-Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg">
-  <img align="center" alt="Dan-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"> }
+  <img align="center" alt="Dan-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  < <img align="center" alt="Dan-Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg">
+  <img align="center" alt="Dan-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Dan-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"> >
   
  
   ###
@@ -44,9 +46,9 @@ In constant evolution.
  
   🧠 Improving Front-End (DevQuest) <img align="right" width="300em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&theme=dracula"/>
 
-  🧗🏻📚 Learning Mobile Development Languages: Xamarin , Swift , Flutter 
+  🧗🏻 Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
   
-  🎯 2023 Goals: My 1° US/CA Exchange & conquer my 1° remote job abroad. 
+  🎯 2023 Goals: My 1° Exchange & Conquer my 1° remote job abroad. 
 </div> 
           
   
