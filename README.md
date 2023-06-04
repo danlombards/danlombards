@@ -48,7 +48,14 @@ In constant evolution.
 
   🧗🏻 Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
   
-  🎯 2023 Goals: My 1° Exchange & Conquer my 1° remote job abroad. 
+  🎯 2023 Goals: My 1° Language Exchange & Conquer my 1° remote job abroad.
+  
+  🤓 Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
+  
+  ##
+  
+                                                                 🙏🏼  
+                                      "The Bible is more modern than tomorrow morning's newspaper."
 </div> 
           
   
