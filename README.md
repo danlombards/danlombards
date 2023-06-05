@@ -27,10 +27,8 @@ In constant evolution.
   <img align="center" alt="Dan-NJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Dan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Dan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Dan-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Dan-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Dan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center" alt="Dan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Dan-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
@@ -44,13 +42,13 @@ In constant evolution.
  
   
  
-  🧠 Improving Front-End (DevQuest) <img align="right" width="300em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&theme=dracula"/>
+  • Improving Front-End (DevQuest) <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 
-  🧗🏻 Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
+  • Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
   
-  🎯 2023 Goals: My 1° Language Exchange & Conquer my 1° remote job abroad.
+  • 2023 Goals: My 1° Language Exchange & Conquer my 1° remote job abroad.
   
-  🤓 Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
+  • Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
   
   ##
   
