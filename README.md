@@ -42,7 +42,7 @@ In constant evolution.
  
   
  
-  • Improving Front-End (DevQuest) <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  • Improving Front-End (DevQuest) <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 
   • Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
   
