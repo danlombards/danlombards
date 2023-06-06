@@ -42,13 +42,17 @@ In constant evolution.
  
   
  
-  • Improving Front-End (DevQuest) <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  • Student of Systems Analysis and Development at Impacta College. <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlombards&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  
+  • Improving in Front-End (DevQuest course)
 
   • Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
   
   • 2023 Goals: My 1° Language Exchange & Conquer my 1° remote job abroad.
   
   • Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
+  
+  Access my link: https://linktr.ee/DanLombardi
   
   ##
   
