@@ -45,7 +45,7 @@ In constant evolution.
   
   • Improving in Front-End (DevQuest course)
 
-  • Learning Mobile Development Languages: Xamarin | Flutter | React Native | Swift
+  • Learning and improving at Xamarin | Maui | Swift
   
   • 2023 Goals: My 1° Language Exchange & Conquer my 1° remote job abroad.
   
