@@ -51,8 +51,6 @@ In constant evolution.
   
   • Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
   
-  Access my link: https://linktr.ee/DanLombardi
-  
   ##
   
                                                                 🙏🏼  
