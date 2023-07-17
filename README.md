@@ -47,8 +47,6 @@ In constant evolution.
 
   • Learning and improving at Xamarin | Maui | Swift
   
-  • 2023 Goals: My 1° Language Exchange & Conquer my 1° remote job abroad.
-  
   • Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
   
   ##
