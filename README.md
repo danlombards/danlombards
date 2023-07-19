@@ -46,6 +46,8 @@ In constant evolution.
   • Improving in Front-End (DevQuest course)
 
   • Learning and improving at Xamarin | Maui | Swift
+
+  • English student 
   
   • Fun Fact: I love 📚, 🎮 , ⚽, 🏀 and lots of ☕.
   
